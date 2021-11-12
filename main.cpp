@@ -135,15 +135,13 @@ earth.spin();
 //  action 3:the earth inhabits people
 earth.inhabit();
 //  9)
-//  Noun:turntable
-//  action 1:the turntable spins
-turntable.spin();
-//  action 2:the turntable outputs sound
-turntable.output();
-
-//  action 3:the turntable scratches the record
-turntable.scratch();
-
+//  Noun:hot peppers
+//  action 1:the hot peppers grow leaves
+hotPepper.growLeaves();
+//  action 2:the hot peppers sprout buds
+hotPeppers.sproutBuds();
+//  action 3:the hot peppers release capsaicin
+hotPeppers.releaseCapsaicin();
 //  10)
 //  Noun:hard drive
 //  action 1:the hard drive stores data
